@@ -1,6 +1,6 @@
 <h2> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://yashsrivastava.netlify.app/">Yash</a></h2>
 
-There is the land where I share toys and take a break.
+This is the land where I share toys and take a break.
 
 <img align="right" alt="GIF" src="https://github.com/darkshredder/darkshredder/blob/main/hacker.gif?raw=true" width="450" height="300" />
 
