@@ -17,8 +17,8 @@ This is the land where I share toys and take a break.
 ### 📊 Github Stats
   
 <a href="https://github.com/darkshredder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkshredder&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Yash's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkshredder&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Yash's github stats" style="max-width:56%;" />
 </a>
 <a href="https://github.com/darkshredder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkshredder&layout=compact&theme=material-palenight&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkshredder&layout=compact&theme=material-palenight&langs_count=8" style="max-width:40%;" />
 </a>
