@@ -1,4 +1,4 @@
-<h2> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://yashsrivastava.netlify.app/">Yash</a></h2>
+<h2> Hey 👋, I'm <a href="https://yashsrivastava.netlify.app/">Yash</a></h2>
 
 This is the land where I share toys and take a break.
 
